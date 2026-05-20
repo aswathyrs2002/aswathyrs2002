@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Aswathy R S
 
-<!--
-**aswathyrs2002/aswathyrs2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+* 🎓 Computer Engineering Student
+* 🌱 Currently learning **Full Stack Development & AI**
+* 🔭 Interested in Web Development and Open Source
+* ⚡ Love creating projects and exploring new technologies
+* 🎯 Goal: To become a skilled Software Developer
+
+---
+
