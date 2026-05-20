@@ -1,16 +1,35 @@
-# 👋 Hi, I'm Aswathy R S
+ 👋 Hi, I'm Aswathy
 
-💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast
+ 💻 Developer | 🌱 Learner | 🚀 Tech Enthusiast
+
+* 🎓 Computer Science Student
+* 🌱 Currently learning MERN Stack & AI
+* 💡 Interested in Web Development and Open Source
+* ⚡ Love building creative projects
+
+---
+
+ 🛠️ Skills
+
+* Python
+* Java
+* JavaScript
+* HTML & CSS
+* React
+* Node.js
+* MongoDB
 
 ---
 
 
 
-* 🎓 Computer Engineering Student
-* 🌱 Currently learning **Full Stack Development & AI**
-* 🔭 Interested in Web Development and Open Source
-* ⚡ Love creating projects and exploring new technologies
-* 🎯 Goal: To become a skilled Software Developer
+🌐 Connect With Me
+
+* LinkedIn
+* Gmail
 
 ---
+
+⭐ Thanks for visiting my profile
+
 
