@@ -2,7 +2,7 @@
 
  💻 Developer | 🌱 Learner | 🚀 Tech Enthusiast
 
-* 🎓 Computer Science Student
+* 🎓 Computer Engineering Student
 * 🌱 Currently learning MERN Stack & AI
 * 💡 Interested in Web Development and Open Source
 * ⚡ Love building creative projects
